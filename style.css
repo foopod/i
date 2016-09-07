@@ -31,3 +31,9 @@ table{
 .oi{
     padding-bottom: 20px;
 }
+@media screen and (min-width: 600px){
+    h1{
+        font-size: 80px;
+        margin-bottom: -0.25em;
+    }
+}
